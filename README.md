@@ -2,7 +2,7 @@
 
 AIQuizMaster is a complete Kotlin Android app that generates multiple-choice quizzes with the Gemini API. 
 
-#languages
+**#LANGUAGES**
 basically i used kotlin in this project and alsos used google ai studio 
 
 ## Add Gemini API Key
